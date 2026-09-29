@@ -1,0 +1,29 @@
+# 原始数据与转换产物（不要上传）
+*.oir
+*.pptx
+*.npz
+*.ome.tiff
+*.tif
+*.tiff
+
+# 生成的图像与结果
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*.spec
+
+# 构建产物
+build/
+dist/
+
+# 本地数据目录
+Percent/
+_extracted/
+优化/
+新功能/
+deep/
+TIFAnalyzer/
